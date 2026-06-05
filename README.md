@@ -6,6 +6,7 @@ Still using LPIPS? Try our perceptual loss based on DINOv2 for a more meaningful
 
 Implementation from the paper *"PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing"* (CVPR '26).  
 [[Project Page]](https://antoniooroz.github.io/PercHead/)
+[[SAM2.1 Loss]](https://github.com/tobias-kirschstein/sam-loss)
 
 
 ## 1. Installation
