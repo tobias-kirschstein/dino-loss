@@ -26,7 +26,7 @@ target_images = ... # torch.Tensor [B, 3, H, W] in [0, 1] range
 dino_loss = dino_criterion(predicted_images, target_images)
 ```
 
-
+<hr>
 
 If you find this DINOv2 Perceptual Loss useful, please consider citing:
 ```bibtex
